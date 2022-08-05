@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Samsong110.github.io</id>
+    <title>Sam110的空间</title>
+    <updated>2022-08-05T13:55:09.453Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Samsong110.github.io"/>
+    <link rel="self" href="https://Samsong110.github.io/atom.xml"/>
+    <subtitle>走一条少走的路，虽孤独，但有安慰。清白渐失，处处破碎。</subtitle>
+    <logo>https://Samsong110.github.io/images/avatar.png</logo>
+    <icon>https://Samsong110.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Sam110的空间</rights>
+    <entry>
+        <title type="html"><![CDATA[001-以小说的方式写他]]></title>
+        <id>https://Samsong110.github.io/post/001-yi-xiao-shuo-de-fang-shi-xie-ta/</id>
+        <link href="https://Samsong110.github.io/post/001-yi-xiao-shuo-de-fang-shi-xie-ta/">
+        </link>
+        <updated>2022-08-01T23:45:42.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="前言">前言</h3>
+<p>今天上午有一个小时坐在电脑前的时间。越来越感慨属于自己的时间越来越少，被迫拿去的时间越来越长。<br>
+有时也会有一两个小时自由的时间，但是又常常被手机视频 新闻热点 等等占有。很少有时间思考回忆。<br>
+猛然回首 发现长久的记忆回想起来越来困难。以往许多美好的时刻，现在回想需要的时间越来越长。生活日渐平淡，日复一日，年复一年。生活的节奏很快，被各种需要 事件推着走。当初的愤青少年，一个爱构思社会人生的少年，早已失去当年的风采与意气。</p>
+<p>所以，与其浪费时间在短视频上，还不如将以往的记忆拉来，铺平展开，组合安装，从生活和历史中，找到曾经那个迷失的灵魂。</p>
+<h3 id="想以小说的方式来写他">想以小说的方式来写他</h3>
+<p>所以，在这里我仿佛一个小说家，在我的小说里，主角是我自己，作者就是旁白。以第三人称来审视自己，当然，许多事情，我早已忘记，许多背景，我也无法考证。只能通过记忆和思考，加上许多的幻想，来构造出一个自己的故事。我只不过是在观察他，审视他，拷问他，探讨他。像是一个精神分析师，将他的意图 动机  目的 解构出来。我似乎很认识他，其实我不认识。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22-8-1 大家好 我开通了博客]]></title>
+        <id>https://Samsong110.github.io/post/22-8-1-da-jia-hao-wo-kai-tong-liao-bo-ke/</id>
+        <link href="https://Samsong110.github.io/post/22-8-1-da-jia-hao-wo-kai-tong-liao-bo-ke/">
+        </link>
+        <updated>2022-08-01T14:16:53.000Z</updated>
+        <content type="html"><![CDATA[<p>大家好 大概是09年 小学四年级  那时家里买了一台电脑  联想的。联网之后（因为刚开始不知道原来电脑需要联网）第一件事就是注册了QQ ，玩QQ空间写日志。</p>
+<p>不知不觉已经过去12年了。我也从当初那个小学生 成了一个社会青年。曾经的QQ空间就是我的心灵圣殿，一有什么感慨 就喜欢写写。</p>
+<p>可是渐渐长大，越来越不敢在上面写 毕竟都是熟人。分分钟社死现场。上了大学之后 第一件事就是锁空间，曾经那个文学青年 自此埋在心里。</p>
+<p>也曾写过一段时间新浪博客，后来都忘记账号密码了。</p>
+<p>经过现在 其实里面还是有书写的冲动。越长大越难找到可以聊得上的人。也不太能聊。</p>
+<p>自己也是技术小白 也不会搭个人博客。幸好这个平台，希望重新找个心灵树洞吧。</p>
+<p>Sam 94年生人</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://Samsong110.github.io/post/hello-gridea/</id>
+        <link href="https://Samsong110.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="https://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
